@@ -1,0 +1,489 @@
+﻿VOLCANX020;NUMBER;NAME;LOCATION;STATUS;ELEV;TYPE;TIMEFRAME;LAT;LON
+509;1;Baker;US-Washington;Historical;3285;Stratovolcanoes;D3;48.7767982;-121.8109970
+511;2;Glacier Peak;US-Washington;Tephrochronology;3213;Stratovolcano;D4;48.1118011;-121.1110001
+513;3;Rainier;US-Washington;Dendrochronology;4392;Stratovolcano;D3;46.8698006;-121.7509995
+515;4;St. Helens;US-Washington;Historical;2549;Stratovolcano;D1;46.1997986;-122.1809998
+517;5;Adams;US-Washington;Tephrochronology;3742;Stratovolcano;D6;46.2057991;-121.4909973
+519;6;West Crater;US-Washington;Radiocarbon;1329;Volcanic field;D7;45.8797989;-122.0810013
+521;7;Indian Heaven;US-Washington;Radiocarbon;1806;Shield volcanoes;D7;45.9297981;-121.8209991
+523;8;Hood;US-Oregon;Historical;3426;Stratovolcano;D3;45.3737984;-121.6910019
+525;9;Jefferson;US-Oregon;Varve Count;3199;Stratovolcano;D6;44.6917992;-121.8010025
+527;10;Blue Lake Crater;US-Oregon;Radiocarbon;1230;Maar;D7;44.4197998;-121.7710037
+529;11;Sand Mountain Field;US-Oregon;Radiocarbon;1664;Cinder cones;D7;44.3797989;-121.9309998
+531;12;Washington;US-Oregon;Radiocarbon;2376;Shield volcano;D6;44.3317986;-121.8310013
+533;13;Belknap;US-Oregon;Radiocarbon;2095;Shield volcanoes;D6;44.2848015;-121.8410034
+535;14;North Sister Field;US-Oregon;Radiocarbon;3074;Complex volcano;D6;44.1697998;-121.7710037
+537;15;South Sister;US-Oregon;Radiocarbon;3157;Complex volcano;D7;44.0998001;-121.7710037
+539;16;Bachelor;US-Oregon;Tephrochronology;2763;Stratovolcano;D7;43.9788017;-121.6809998
+541;17;Newberry Volcano;US-Oregon;Radiocarbon;2434;Shield volcano;D6;43.7218018;-121.2210007
+543;18;Davis Lake;US-Oregon;Radiocarbon;2163;Volcanic field;D7;43.5698013;-121.8209991
+545;19;Devils Garden;US-Oregon;Holocene?;1698;Volcanic field;?;43.5119019;-120.8610001
+547;20;Cinnamon Butte;US-Oregon;Holocene?;1956;Cinder cones;?;43.2407990;-122.1009979
+549;21;Squaw Ridge Lava Field;US-Oregon;Holocene?;1711;Volcanic field;?;43.4719009;-120.7509995
+551;22;Four Craters Lava Field;US-Oregon;Holocene?;1501;Volcanic field;?;43.3609009;-120.6610031
+553;23;Crater Lake;US-Oregon;Radiocarbon;2487;Caldera;D7;42.9299011;-122.1210022
+555;24;Yellowstone;US-Wyoming;Tephrochronology;2805;Calderas;D7;44.4299011;-110.6709976
+557;25;Diamond Craters;US-Oregon;Holocene?;1435;Volcanic field;?;43.0998993;-118.7509995
+559;26;Jordan Craters;US-Oregon;Radiocarbon;1473;Volcanic field;D7;43.1498985;-117.4710007
+561;27;Saddle Butte;US-Oregon;Holocene?;1700;Volcanic field;?;42.9999008;-117.8010025
+563;28;Craters of the Moon;US-Idaho;Radiocarbon;2005;Cinder cones;D7;43.4198990;-113.5009995
+565;29;Hell Half Acre;US-Idaho;Radiocarbon;1631;Shield volcano;D7;43.4999008;-112.4509964
+567;30;Shoshone Lava Field;US-Idaho;Holocene;1478;Shield volcano;D7;43.1799011;-114.3509979
+569;31;Jackies Butte;US-Oregon;Holocene?;1418;Volcanic field;?;42.6058998;-117.5810013
+571;32;Medicine Lake;US-California;Radiocarbon;2412;Shield volcano;D6;41.5798988;-121.5709991
+573;33;Wapi Lava Field;US-Idaho;Radiocarbon;1604;Shield volcano;D7;42.8799019;-113.2210007
+575;34;Shasta;US-California;Historical;4317;Stratovolcano;D4;41.4198990;-122.2009964
+577;35;Brushy Butte;US-California;Holocene?;1174;Shield volcano;?;41.1778984;-121.4410019
+579;36;Big Cave;US-California;Holocene?;1259;Shield volcano;?;40.9548988;-121.3610001
+581;37;Twin Buttes;US-California;Holocene?;1631;Cinder cones;?;40.7798996;-121.6009979
+583;38;Tumble Buttes;US-California;Holocene?;2191;Cinder cones;?;40.6799011;-121.5510025
+585;39;Eagle Lake Field;US-California;Holocene?;1652;Fissure vents;?;40.6299019;-120.8310013
+587;40;Lassen Volc Center;US-California;Historical;3187;Stratovolcano;D2;40.4919014;-121.5009995
+589;41;Clear Lake;US-California;Holocene;1439;Volcanic field;U;38.9698982;-122.7710037
+591;42;Steamboat Springs;US-Nevada;Pleistocene-Fumarolic;1415;Lava domes;Q;39.3749008;-119.7210007
+593;43;Dotsero;US-Colorado;Radiocarbon;2230;Maar;D7;39.6500015;-107.0309982
+595;44;Mono Lake Volc Field;US-California;Tephrochronology;2121;Cinder cones;D4;37.9999008;-119.0309982
+597;45;Black Rock Desert;US-Utah;Radiocarbon;1800;Volcanic field;D6;38.9700012;-112.5009995
+599;46;Mono Craters;US-California;Radiocarbon;2796;Lava domes;D6;37.8799019;-119.0009995
+601;47;Inyo Craters;US-California;Radiocarbon;2629;Lava domes;D6;37.6918983;-119.0210037
+603;48;Long Valley;US-California;Pleistocene-Fumarolic;3390;Caldera;Q;37.6999016;-118.8710022
+605;49;Red Cones;US-California;Radiocarbon;2748;Cinder cones;D7;37.5798988;-119.0510025
+607;50;Ubehebe Craters;US-California;Anthropology;752;Maars;D7;37.0199013;-117.4509964
+609;51;Markagunt Plateau;US-Utah;Dendrochronology;2840;Volcanic field;D6;37.5800018;-112.6709976
+611;52;Santa Clara;US-Utah;Holocene?;1465;Volcanic field;?;37.2570000;-113.6210022
+613;53;Bald Knoll;US-Utah;Holocene;2135;Cinder cones;U;37.3279991;-112.4010010
+615;54;Golden Trout Creek;US-California;Tephrochronology;2886;Volcanic field;D7;36.3578987;-118.3209991
+617;55;Coso Volc Field;US-California;Holocene?;2400;Lava domes;?;36.0298996;-117.8209991
+619;56;Uinkaret Field;US-Arizona;Anthropology;1555;Volcanic field;D6;36.3800011;-113.1309967
+621;57;Lavic Lake;US-California;Holocene?;1495;Volcanic field;?;34.7500000;-116.6210022
+623;58;Valles Caldera;US-New Mexico;Pleistocene-Fumarolic;3430;Caldera;Q;35.8699989;-106.5709991
+625;59;Sunset Crater;US-Arizona;Dendrochronology;2447;Cinder cone;D6;35.3699989;-111.5009995
+627;60;Amboy;US-California;Holocene;288;Cinder cone;U;34.5499992;-115.7809982
+629;61;Zuni-Bandera;US-New Mexico;Anthropology;2550;Volcanic field;D7;34.7999992;-108.0009995
+631;62;Carrizozo;US-New Mexico;Holocene;1731;Cinder cone;U;33.7801018;-105.9309998
+633;63;Abu;Japan;no data;641;Shield;no data;34.50;131.60
+635;64;Acamarachi;Chile;no data;6046;Stratovolcano;no data;-23.30;-67.62
+637;65;Acatenango;Guatemala;no data;3976;Stratovolcano;no data;14.50;-90.88
+639;66;Acig?l-Nevsehir;Turkey;no data;1689;Caldera;no data;38.57;34.52
+641;67;Adams;United States;no data;3742;Stratovolcano;no data;46.21;-121.49
+643;68;Adams Seamount;Pacific Ocean;no data;-39;Submarine;no data;-25.37;-129.27
+645;69;Adatara;Japan;no data;1718;Stratovolcano;no data;37.64;140.29
+647;70;Adwa;Ethiopia;no data;1733;Stratovolcano;no data;44476;40.84
+649;71;Afder?;Ethiopia;no data;1295;Stratovolcano;no data;44421;40.85
+651;72;Agrigan;Mariana Islands;no data;965;Stratovolcano;no data;18.77;145.67
+653;73;Agua;Guatemala;no data;3760;Stratovolcano;no data;14.47;-90.74
+655;74;Agua de Pau;Portugal;no data;947;Stratovolcano;no data;37.77;-25.47
+657;75;Aguilera;Chile;no data;2546;Stratovolcano;no data;-50.33;-73.75
+659;76;Agung;Indonesia;no data;3142;Stratovolcano;no data;-8.34;115.51
+661;77;Ahyi;Mariana Islands;no data;-137;Submarine;no data;20.42;145.03
+663;78;Akademia Nauk;Russia;no data;1180;Caldera;no data;53.98;159.45
+665;79;Akagi;Japan;no data;1828;Stratovolcano;no data;36.56;139.20
+667;80;Akan;Japan;no data;1499;Caldera;no data;43.38;144.01
+669;81;Akhtang;Russia;no data;1956;Shield;no data;55.43;158.65
+671;82;Akita Komagatake;Japan;no data;1637;Stratovolcano;no data;39.76;140.80
+673;83;Akita Yakeyama;Japan;no data;1366;Stratovolcano;no data;39.96;140.76
+675;84;Akuseki-jima;Japan;no data;584;Stratovolcano;no data;29.46;129.60
+677;85;Akutan;United States;no data;1303;Stratovolcano;no data;54.13;-165.99
+679;86;Alaid;Russia;no data;2339;Stratovolcano;no data;50.86;155.55
+681;87;Alamagan;Mariana Islands;no data;744;Stratovolcano;no data;17.60;145.83
+683;88;Alayta;Ethiopia;no data;1501;Shield;no data;12.88;40.57
+685;89;Alban Hills;Italy;no data;949;Caldera;no data;41.73;12.70
+687;90;Alcedo;Gal?pagos Islands;no data;1130;Shield;no data;-0.43;-91.12
+689;91;Ale Bagu;Ethiopia;no data;1031;Stratovolcano;no data;13.52;40.63
+691;92;Alid;Eritrea;no data;904;Stratovolcano;no data;14.88;39.92
+693;93;Ambrym;Vanuatu;no data;1334;Caldera; Shield;-16.25;168.12
+695;94;Ambrym;Vanuatu;no data;1334;Caldera; Shield;-16.25;168.12
+697;95;Anatahan;Mariana Islands;no data;790;Stratovolcano;no data;16.35;145.67
+699;96;Aneityum;Vanuatu;no data;852;Stratovolcano;no data;-20.20;169.78
+701;97;Aniakchak;United States;no data;1341;Caldera;no data;56.88;-158.17
+703;98;Antisana;Ecuador;no data;5753;Stratovolcano;no data;-0.48;-78.14
+705;99;Aoba;Vanuatu;no data;1496;Shield;no data;-15.40;167.83
+707;100;Ararat;Turkey;no data;5165;Stratovolcano;no data;39.70;44.30
+709;101;Arenal;Costa Rica;no data;1670;Stratovolcano;no data;10.46;-84.70
+711;102;Arintica;Chile;no data;5597;Complex;no data;-18.73;-69.05
+713;103;Asacha;Russia;no data;1910;Stratovolcano;no data;52.36;157.83
+715;104;Asama;Japan;no data;2568;Complex;no data;36.40;138.53
+717;105;Ascensi?n;South Atlantic Ocean;no data;858;Stratovolcano;no data;-7.95;-14.37
+719;106;Askja;Iceland;no data;1516;Stratovolcano;no data;m?.65;-16.75
+721;107;Aso;Japan;no data;1592;Caldera;no data;32.88;131.11
+723;108;Atitl?n;Guatemala;no data;3535;Complex;no data;14.58;-91.19
+725;109;Atka;United States;no data;1533;Caldera;no data;52.38;-174.15
+727;110;Atsonupuri;Russia;no data;1206;Stratovolcano;no data;44.81;147.14
+729;111;Augustine;United States;no data;1252;Lava dome;no data;59.36;-153.43
+731;112;Avachinsky;Russia;no data;2741;Stratovolcano;no data;53.26;158.83
+733;113;Awu;Indonesia;no data;1320;Stratovolcano;no data;3.67;125.50
+735;114;Axial Seamount;Pacific Ocean;no data;-1410;Submarine;no data;45.95;-130.00
+737;115;Ayelu;Ethiopia;no data;2145;Stratovolcano;no data;44477;40.70
+739;116;Azufre;Chile;no data;5846;Complex;no data;-21.79;-68.24
+741;117;Azuma;Japan;no data;2035;Stratovolcano;no data;37.73;140.25
+743;118;Babuyon Claro;Philippines;no data;1180;Stratovolcano;no data;19.50;121.90
+745;119;Bachelor;United States;no data;2763;Stratovolcano;no data;43.80;121.60
+747;120;Bagana;Papua New Guinea;no data;1750;Cinder Cone;no data;-6.10;155.20
+749;121;Baker;United States;no data;3285;Stratovolcano;no data;48.79;-121.82
+751;122;Bam;Papua New Guinea;no data;685;Stratovolcano;no data;-3.60;144.85
+753;123;Bamus;Papua New Guinea;no data;2248;Stratovolcano;no data;-5.20;151.20
+755;124;Bandai;Japan;no data;1819;Stratovolcano;no data;37.60;140.10
+757;125;Barren Island;India;no data;305;Pyroclastic cone;no data;44559;93.88
+759;126;Barrier;Kenya;no data;1032;Complex;no data;2.32;36.57
+761;127;Bazman;Iran;no data;3490;Stratovolcano;no data;28.00;60.00
+763;128;Beerenberg;Norway;no data;2277;Stratovolcano;no data;26207;-8.20
+765;129;Belknap;United States;no data;2096;Shield;no data;44.28;-121.83
+767;130;Bezymianny;Russia;no data;2882;Stratovolcano;no data;55.98;160.58
+769;131;Biliran;Philippines;no data;1187;Complex;no data;11.50;124.50
+771;132;Bolshoi Semiachik;Russia;no data;1720;Stratovolcano;no data;54.32;160.02
+773;133;Bulusan;Philippines;no data;1565;Stratovolcano;no data;12.80;124.10
+775;134;Butajira;Ethiopia;no data;2281;Fissure vent; Maar;44413;38.35
+777;135;Butajira;Ethiopia;no data;2281;Fissure vent; Maar;44413;38.35
+779;136;Cameroon (Mount);Cameroon;no data;4095;Stratovolcano;no data;20.?;44456
+781;137;Camiguin de Babuyanes;Philippines;no data;712;Stratovolcano;no data;18.83;121.85
+783;138;Canlaon;Philippines;no data;2435;Stratovolcano;no data;10.41;123.13
+785;139;Capulin;United States;no data;2494;Cinder Cone;no data;36.45;-104.09
+787;140;Carrizozo;United States;no data;1730;Volcanic field;no data;33.70;-106.00
+789;141;Cayambe;Ecuador;no data;5790;Stratovolcano;no data;0.03;-77.99
+791;142;Cereme;Indonesia;no data;3078;Stratovolcano;no data;-6.90;108.41
+793;143;Chaine des Puys;France;no data;1464;Lava dome;no data;45.78;2.97
+795;144;Chiginagak;United States;no data;2067;Stratovolcano;no data;57.13;-156.99
+797;145;Chikurachki;Russia;no data;5958;Stratovolcano;no data;50.33;155.46
+799;146;Chimborazo;Ecuador;no data;6310;Stratovolcano;no data;-1.46;-78.82
+801;147;Cleveland;United States;no data;1730;Stratovolcano;no data;52.83;-169.95
+803;148;Coatepeque;El Salvador;no data;746;Caldera;no data;13.86;-89.54
+805;149;Colima;Mexico;no data;4100;Stratovolcano;no data;19.51;103.62
+807;151;Concepci?n;Nicaragua;no data;1610;Stratovolcano;no data;11.50;85.60
+809;152;Copahue;Argentina;no data;2965;Stratovolcano;no data;-37.85;-71.17
+811;153;Cosig?ina;Nicaragua;no data;847;Shield;no data;12.98;-87.56
+813;154;Cotopaxi;Ecuador;no data;5911;Stratovolcano;no data;-0.68;-78.44
+815;155;Crater Lake;United States;no data;2471;Caldera;no data;42.94;-122.11
+817;156;Craters of the Moon;United States;no data;2005;Volcanic field;no data;43.42;-113.50
+819;157;Daisetsu;Japan;no data;2290;Stratovolcano;no data;43.70;142.90
+821;158;Dakataua;Papua New Guinea;no data;400;Caldera;no data;-5.00;150.10
+823;159;Damavand;Iran;no data;5670;Stratovolcano;no data;35.95;19299
+825;161;Dempo;Indonesia;no data;3173;Stratovolcano;no data;-4.00;103.10
+827;162;Devils Garden;United States;no data;1525;Volcanic field;no data;43.50;-120.90
+829;163;Devils Tower;United States;no data;1558;Plug;no data;44.60;-104.70
+831;164;Diamond Craters;United States;no data;1450;Volcanic field;no data;15980;-118.70
+833;165;Dieng Volcanic Complex;Indonesia;no data;2565;Complex;no data;-7.20;109.90
+835;166;Diky Greben;Russia;no data;1331;Lava dome;no data;51.46;156.98
+837;167;Dubbi;Eritrea;no data;1625;Stratovolcano;no data;13.60;41.80
+839;168;Dukono;Indonesia;no data;1185;Complex;no data;1.70;127.87
+841;169;East Epi;Vanuatu;no data;-34;Caldera;no data;-16.70;168.40
+843;170;Ebeko;Russia;no data;1156;Somma;no data;50.68;156.02
+845;171;Egmont (Taranaki);New Zealand;no data;2518;Stratovolcano;no data;-39.30;174.10
+847;172;Egon;Indonesia;no data;788;Stratovolcano;no data;-8.70;122.45
+849;173;El Chichon;Mexico;no data;1060;Caldera;no data;17.36;-93.23
+851;174;Elbrus;Russia;no data;5633;Stratovolcano;no data;43.33;42.45
+853;175;Erebus;Antarctica;no data;3794;Stratovolcano;no data;-77.50;167.20
+855;176;Erta Ale;Ethiopia;no data;613;Shield;no data;13.60;40.70
+857;177;Etna;Italy;no data;3350;Stratovolcano;no data;37.73;15.00
+859;178;Fantale;Ethiopia;no data;2007;Stratovolcano;no data;8.98;39.93
+861;179;Fernandina;Ecuador;no data;1476;Caldera;no data;-0.37;-91.55
+863;180;Fisher;United States;no data;1095;Stratovolcano;no data;-54.63;-164.42
+865;181;Fogo;Cape Verde Islands;no data;2829;Stratovolcano;no data;14.95;-24.35
+867;182;Fort Rock;United States;no data;1716;Maar;no data;43.37;-121.07
+869;183;Frosty Peak;United States;no data;1920;Stratovolcano;no data;20302;-162.81
+871;184;Fuego;Guatemala;no data;3763;Stratovolcano;no data;14.47;-90.88
+873;185;Fuerteventura;Spain;no data;529;Fissure vent;no data;28.36;-14.02
+875;186;Fuji;Japan;no data;3776;Stratovolcano;no data;35.36;138.73
+877;187;Furnas;Portugal;no data;805;Stratovolcano;no data;37.76;-25.33
+879;188;Fuss Peak;Russia;no data;1772;Stratovolcano;no data;50.27;155.25
+881;189;Galeras;Colombia;no data;4276;Stratovolcano;no data;44218;-77.37
+883;190;Galunggung;Indonesia;no data;2168;Stratovolcano;no data;-7.26;108.08
+885;191;Gamalama;Indonesia;no data;1715;Stratovolcano;no data;0.81;127.33
+887;192;Gamchen;Russia;no data;2576;Stratovolcano;no data;54.97;160.68
+889;193;Gamkonora;Indonesia;no data;1635;Stratovolcano;no data;1.38;127.53
+891;194;Gareloi;United States;no data;1573;Stratovolcano;no data;51.80;178.80
+893;195;Gaua;Vanuatu;no data;797;Stratovolcano;no data;-14.27;167.50
+895;196;Gede;Indonesia;no data;2958;no data;no data;-6.77;106.94
+897;197;Glacier Peak;United States;no data;3213;Stratovolcano;no data;17838;-121.11
+899;198;Gorely;Russia;no data;1829;Caldera;no data;52.56;158.03
+901;199;Graciosa;Portugal;no data;402;Stratovolcano;no data;14277;-27.97
+903;200;Gran Canaria;Spain;no data;1950;Fissure vent;no data;28.00;15.58
+905;201;Great Sitkin;United States;no data;1740;Stratovolcano;no data;j??2;-176.13
+907;202;Griggs;United States;no data;2317;Stratovolcano;no data;58.35;-155.09
+909;203;Gr?msv?tn;Iceland;no data;1725;Caldera;no data;64.42;-17.33
+911;204;Guagua Pichincha;Ecuador;no data;4784;no data;no data;-0.17;-78.60
+913;205;Guallatiri;Chile;no data;6071;Stratovolcano;no data;-18.42;-69.09
+915;206;Guguan;United States;no data;287;Stratovolcano;no data;17.31;145.84
+917;207;Hakone;Japan;no data;1439;no data;no data;35.23;139.02
+919;208;Heard;Australia;no data;2745;Stratovolcano;no data;-53.10;73.50
+921;209;Hibok-hibok;Philippines;no data;1332;Stratovolcano;no data;44459;124.70
+923;210;Hierro;Spain;no data;1500;Shield;no data;27.73;-18.03
+925;211;Hood;United States;no data;3426;Stratovolcano;no data;45.40;-121.70
+927;212;Hualalai;United States;no data;2523;Shield;no data;19.69;-155.87
+929;213;Ibu;Indonesia;no data;1325;Stratovolcano;no data;1.49;127.63
+931;214;Ijen;Indonesia;no data;2386;Stratovolcano;no data;-8.06;114.24
+933;215;Iliamna;United States;no data;3053;Stratovolcano;no data;m?.60;-153.09
+935;216;Iliboleng;Indonesia;no data;1659;Stratovolcano;no data;-8.34;123.26
+937;217;Iliniza;Ecuador;no data;5248;Stratovolcano;no data;-0.66;-78.71
+939;218;Ilopango;El Salvador;no data;450;Caldera;no data;13.67;-89.05
+941;219;Ilyinsky;Russia;no data;1578;Stratovolcano;no data;51.49;157.20
+943;220;Ioto (Iwo-jima);Japan;no data;161;Caldera;no data;24.75;141.29
+945;221;Iraya;Philippines;no data;1009;Stratovolcano;no data;20.47;122.01
+947;222;Irazu;Costa Rica;no data;3431;Stratovolcano;no data;9.98;83.85
+949;223;Isanotski;United States;no data;2446;Stratovolcano;no data;54.77;-163.72
+951;224;Izalco;El Salvador;no data;1950;Stratovolcano;no data;13.81;-89.63
+953;225;Iztaccihuatl;Mexico;no data;5286;Stratovolcano;no data;19.18;-98.64
+955;226;Izu-Tobu;Japan;no data;581;Pyroclastic cone;no data;34.90;139.10
+957;227;Jailolo;Indonesia;no data;1130;Stratovolcano;no data;44204;127.42
+959;228;Jefferson;United States;no data;3199;Stratovolcano;no data;44.67;-121.80
+961;229;Jordan Craters;United States;no data;1400;Volcanic field;no data;15980;-117.40
+963;230;Kadovar;Papua New Guinea;no data;365;Stratovolcano;no data;-3.63;144.63
+965;231;Kaguyak;United States;no data;901;Stratovolcano;no data;58.62;-154.06
+967;232;Kahoolawe;United States;no data;450;Shield;no data;20.55;-156.57
+969;233;Kambalny;Russia;no data;2156;Stratovolcano;no data;51.30;156.87
+971;234;Kanaga;United States;no data;1307;Stratovolcano;no data;51.92;-177.17
+973;235;Karangetang [Api Siau];Indonesia;no data;1784;Stratovolcano;no data;2.78;125.40
+975;236;Karisimbi;Congo; Rwanda;4507;Stratovolcano;no data;-1.51;29.45
+977;237;Karisimbi;Congo; Rwanda;4507;Stratovolcano;no data;-1.51;29.45
+979;238;Karthala;Comoros;no data;2361;Shield;no data;-11.75;43.38
+981;239;Karymsky;Russia;no data;1536;Stratovolcano;no data;m?54;159.45
+983;240;Katla;Iceland;no data;1512;Fissure vent;no data;63.63;-19.05
+985;241;Katmai;United States;no data;2047;Stratovolcano;no data;58.28;-154.96
+987;242;Katwe-Kikorongo;Uganda;no data;1067;Volcanic field;no data;-0.08;29.92
+989;243;Kavachi;Solomon Islands;no data;-20;Submarine;no data;-9.02;157.95
+991;244;Kell;Russia;no data;900;Stratovolcano;no data;51.65;157.35
+993;245;Kelut;Indonesia;no data;1731;Stratovolcano;no data;-7.93;112.31
+995;246;Kerinci;Indonesia;no data;3800;Stratovolcano;no data;1.70;101.26
+997;247;Khodutka;Russia;no data;2090;Stratovolcano;no data;j??2;157.70
+999;248;Kialagvik;United States;no data;1677;Stratovolcano;no data;57.20;-156.75
+1001;249;Kick 'em Jenny;Grenada;no data;-185;Submarine;no data;44560;-61.64
+1003;250;Kikai;Japan;no data;704;Caldera;no data;30.79;130.31
+1005;251;Kikhpinych;Russia;no data;1552;Stratovolcano;no data;54.49;160.25
+1007;252;Kilauea;United States;no data;1222;Shield;no data;19.42;-155.29
+1009;253;Kilimanjaro;Tanzania;no data;5895;Stratovolcano;no data;07.m?;37.35
+1011;254;Kirishima;Japan;no data;1700;Stratovolcano;no data;31.93;130.86
+1013;255;Kliuchevskoi;Russia;no data;4835;Stratovolcano;no data;j??6;160.64
+1015;256;Komagatake;Japan;no data;1131;Stratovolcano;no data;j??2;140.68
+1017;257;Kone;Ethiopia;no data;1619;Caldera;no data;8.80;39.69
+1019;258;Koryaksky;Russia;no data;3456;Stratovolcano;no data;53.32;158.69
+1021;259;Koshelev;Russia;no data;1812;Stratovolcano;no data;51.36;156.75
+1023;260;Krafla;Iceland;no data;818;Caldera;no data;65.73;-16.78
+1025;261;Krakatau;Indonesia;no data;813;Stratovolcano;no data;-6.10;105.42
+1027;262;Krasheninnikov;Russia;no data;1856;Stratovolcano;no data;54.59;160.27
+1029;263;Kronotsky;Russia;no data;3528;Stratovolcano;no data;54.75;160.53
+1031;264;Ksudach;Russia;no data;1079;Stratovolcano;no data;51.80;157.53
+1033;265;Kukak;United States;no data;2043;Stratovolcano;no data;58.45;-154.36
+1035;266;Kusatsu-Shirane;Japan;no data;2171;Stratovolcano;no data;36.64;138.54
+1037;267;Kutcharo;Japan;no data;999;Caldera;no data;43.61;144.44
+1039;268;Kuttara;Japan;no data;581;Stratovolcano;no data;42.49;141.16
+1041;269;Kuwae;Vanuatu;no data;-2;Caldera;no data;-16.83;168.54
+1043;270;La Palma;Spain;no data;2426;Stratovolcano;no data;28.57;-17.83
+1045;271;Lamington;Papua New Guinea;no data;1680;Stratovolcano;no data;-8.95;148.15
+1047;272;Langila;Papua New Guinea;no data;1330;Stratovolcano;no data;-5.53;148.42
+1049;273;Lanzarote;Spain;no data;670;Fissure vent;no data;29.m?;-13.63
+1051;274;L?scar;Chile;no data;5592;Stratovolcano;no data;-23.37;-67.73
+1053;275;Lereboleng;Indonesia;no data;1117;Complex;no data;-8.36;122.84
+1055;276;Lewotobi;Indonesia;no data;1703;Stratovolcano;no data;-8.54;122.78
+1057;277;Lewotolo;Indonesia;no data;1423;Stratovolcano;no data;-8.27;123.51
+1059;278;Liamuiga;St. Kitts and Nevis;no data;1156;Stratovolcano;no data;17.37;-62.80
+1061;279;Lipari;Italy;no data;602;Stratovolcano;no data;38.48;14.95
+1063;280;Little Sitkin;United States;no data;1174;Stratovolcano;no data;51.95;178.54
+1065;281;Loihi;United States;no data;-975;Submarine;no data;18.92;-155.27
+1067;282;Lokon-Empung;Indonesia;no data;1580;Stratovolcano;no data;1.36;124.79
+1069;283;Lolo;Papua New Guinea;no data;805;Stratovolcano;no data;-5.47;150.51
+1071;284;Lolobau;Papua New Guinea;no data;858;Caldera;no data;-4.92;151.16
+1073;285;Loloru;Papua New Guinea;no data;1887;Stratovolcano;no data;-6.52;155.62
+1075;286;Long Island;Papua New Guinea;no data;1280;Complex;no data;-5.36;147.12
+1077;287;Longonot;Kenya;no data;2776;Stratovolcano;no data;-0.91;36.45
+1079;288;Lopevi;Vanuatu;no data;1413;Stratovolcano;no data;-16.51;168.35
+1081;289;Maderas;Nicaragua;no data;1394;Stratovolcano;no data;11.45;-85.52
+1083;290;Mageik;United States;no data;2165;Stratovolcano;no data;58.20;155.25
+1085;291;Mahawu;Indonesia;no data;1324;Stratovolcano;no data;1.36;124.86
+1087;292;Makian;Indonesia;no data;1357;Stratovolcano;no data;0.32;127.40
+1089;293;Maly Semiachik;Russia;no data;1560;Caldera;no data;54.13;159.67
+1091;294;Manam;Papua New Guinea;no data;1807;Stratovolcano;no data;-4.08;145.04
+1093;295;Mariveles;Philippines;no data;1388;Stratovolcano;no data;14.52;120.47
+1095;296;Marsabit;Kenya;no data;1707;Shield;no data;2.32;37.97
+1097;297;Masaya;Nicaragua;no data;635;Caldera;no data;11.98;-86.16
+1099;298;Mashkovtsev;Russia;no data;503;Stratovolcano;no data;18902;156.72
+1101;299;Mashu;Japan;no data;855;Caldera;no data;43.57;144.57
+1103;300;Mauna Kea;United States;no data;4205;Shield;no data;19.82;-155.47
+1105;301;Mauna Loa;United States;no data;4170;Shield;no data;19.48;-155.61
+1107;302;Mayon;Philippines;no data;2462;Stratovolcano;no data;13.26;123.69
+1109;303;McDonald Islands;Australia;no data;230;Complex;no data;-53.03;72.60
+1111;304;McLoughlin;United States;no data;2894;Lava cone Stratovolcano;no data;42.45;-122.32
+1113;305;McLoughlin;United States;no data;2894;Lava cone Stratovolcano;no data;42.45;-122.32
+1119;308;Menan Buttes;United States;no data;1713;Tuff ring;no data;43.70;-111.96
+1121;309;Menengai;Kenya;no data;2278;Shield;no data;-0.20;j??6
+1123;310;Merapi;Indonesia;no data;2911;Stratovolcano;no data;-7.54;110.44
+1125;311;Merbabu;Indonesia;no data;3145;Stratovolcano;no data;-7.45;110.43
+1127;312;Meru;Tanzania;no data;4565;Stratovolcano;no data;-3.25;36.75
+1129;313;Methana;Greece;no data;760;Lava dome;no data;37.62;23.34
+1131;314;Metis Shoal;Tonga;no data;43;Submarine;no data;-19.18;-174.87
+1133;315;Michael;United Kingdom;no data;990;Stratovolcano;no data;-57.78;-26.45
+1135;316;Michoacan-Guanajuato;Mexico;no data;3860;Cinder Cone;no data;19.85;-101.75
+1137;317;M?los;Greece;no data;751;Stratovolcano;no data;36.70;24.44
+1139;318;Miyake-jima;Japan;no data;815;Stratovolcano;no data;12632;139.53
+1141;319;Moffett;United States;no data;1196;Stratovolcano;no data;51.94;-176.75
+1143;320;Mojanda;Ecuador;no data;4263;Stratovolcano;no data;0.13;-78.27
+1145;321;Momotombo;Nicaragua;no data;1297;Stratovolcano;no data;12.42;-86.54
+1147;322;Monaco Bank;Portugal;no data;-197;Submarine;no data;37.60;-25.88
+1149;323;Mono Lake Vol Field;United States;no data;2121;Volcanic field;no data;38.00;-119.03
+1151;324;Monowai Seamount;New Zealand;no data;-132;Submarine;no data;-25.89;-177.19
+1153;325;Moti;Indonesia;no data;950;Stratovolcano;no data;0.45;127.40
+1155;326;Muria;Indonesia;no data;1625;Stratovolcano;no data;-6.62;110.88
+1157;327;Nantai;Japan;no data;2486;Stratovolcano;no data;36.76;139.48
+1159;328;Nasu;Japan;no data;1915;Stratovolcano;no data;13850;139.97
+1161;330;Negro; Cerro;Nicaragua;728;Cinder Cone;no data;12.51;-86.70
+1163;331;Nemo Peak;Russia;no data;1018;Caldera;no data;49.57;154.81
+1165;332;Nevis Peak;St. Kitts and Nevis;no data;985;Stratovolcano;no data;17.15;-62.58
+1167;333;Newberry;United States;no data;2434;Shield;no data;43.72;-121.23
+1169;334;Newer Volcanics Province;Australia;no data;1011;Shield;no data;-37.77;142.50
+1171;335;Ngauruhoe;New Zealand;no data;1978;Stratovolcano;no data;-39.13;175.64
+1173;336;Nikko-Shirane;Japan;no data;2578;Shield;no data;36.80;139.38
+1175;337;Nipesotsu-Maruyama;Japan;no data;2013;Stratovolcano;no data;43.45;143.04
+1177;338;Nisyros;Greece;no data;698;Stratovolcano;no data;36.59;27.16
+1179;339;Nyambeni Hills;Kenya;no data;750;Shield;no data;0.23;37.87
+1181;340;Nyamuragira;Democratic Republic of Congo;no data;3058;Shield;no data;-1.41;29.20
+1183;341;Nyiragongo;Democratic Republic of Congo;no data;3470;Stratovolcano;no data;-1.52;29.25
+1185;343;Ojos del Salado;Argentina; Chile;6887;Stratovolcano;no data;-27.12;-68.55
+1187;344;Ojos del Salado;Argentina; Chile;6887;Stratovolcano;no data;-27.12;-68.55
+1189;345;Okataina;New Zealand;no data;1111;Lava dome;no data;-38.12;176.50
+1191;346;Okmok;United States;no data;1073;Shield;no data;53.43;-168.13
+1195;348;Ol Doinyo Lengai;Tanzania;no data;2962;Stratovolcano;no data;-2.76;39.91
+1197;349;Opala;Russia;no data;1776;Caldera;no data;52.54;157.34
+1199;350;Oraefajokull;Iceland;no data;2119;Stratovolcano;no data;64.00;-16.65
+1201;351;Oshima;Japan;no data;764;Stratovolcano;no data;34.72;139.40
+1203;352;Pacaya;Guatemala;no data;2552;Complex;no data;14.38;-90.60
+1205;353;Pagan;United States;no data;570;Stratovolcano;no data;18.13;145.80
+1207;354;Pago;Papua New Guinea;no data;742;Caldera;no data;-5.58;150.52
+1209;355;Papandayan;Indonesia;no data;2665;Stratovolcano;no data;-7.32;107.73
+1211;356;Paricutin;Mexico;no data;3170;Cinder Cone;no data;19.50;-102.20
+1213;357;Parinacota;Bolivia;no data;6348;Stratovolcano;no data;-18.17;-69.15
+1215;358;Parinacota; Chile;no data;6348;Stratovolcano;no data;-18.17;-69.15
+1217;359;Pauzhetka;Russia;no data;1070;Lava dome;no data;51.45;156.97
+1219;360;Pavlof;United States;no data;2519;Stratovolcano;no data;55.42;-161.89
+1221;361;Pavlof Sister;United States;no data;2142;Stratovolcano;no data;55.45;-161.84
+1223;362;Pelee;France;no data;1397;Stratovolcano;no data;14.82;-61.17
+1225;363;Peuet Sague;Indonesia;no data;2801;Complex;no data;4.91;96.33
+1227;364;Pico;Portugal;no data;2351;Stratovolcano;no data;38.47;-28.40
+1229;365;Pilas;Nicaragua;no data;1700;Stratovolcano;no data;11.54;-85.62
+1231;366;Pinacate;Mexico;no data;1200;Cinder Cone;no data;31.77;-113.50
+1233;367;Pinatubo;Philippines;no data;1486;Stratovolcano;no data;15.13;120.35
+1235;368;Pisgah Lava Field;United States;no data;1495;Volcanic field;no data;34.75;-116.63
+1237;369;Piton de la Fournaise;France;no data;2631;Shield;no data;-21.23;55.71
+1239;370;Poas;Costa Rica;no data;2708;Stratovolcano;no data;44489;-84.23
+1241;371;Popocatepetl;Mexico;no data;5246;Stratovolcano;no data;44246;-98.62
+1243;372;Prevo Peak;Russia;no data;1360;Stratovolcano;no data;17199;152.12
+1245;373;Purace;Colombia;no data;4650;Stratovolcano;no data;2.32;-76.40
+1247;374;Quill; The Netherlands;no data;601;Stratovolcano;no data;17.48;-62.96
+1249;375;Rabaul;Papua New Guinea;no data;688;Shield;no data;-4.27;152.20
+1251;376;Ragang;Philippines;no data;2815;Stratovolcano;no data;7.70;124.50
+1253;377;Raikoke;Russia;no data;551;Stratovolcano;no data;48.29;153.25
+1255;378;Rainier;United States;no data;4392;Stratovolcano;no data;46.85;-121.76
+1257;379;Rajabasa;Indonesia;no data;1281;Stratovolcano;no data;-5.78;105.63
+1259;380;Raoul;New Zealand;no data;516;Stratovolcano;no data;-29.27;-177.92
+1261;381;Rasshua;Russia;no data;956;Stratovolcano;no data;47.77;153.02
+1263;382;Raung;Indonesia;no data;3332;Stratovolcano;no data;-8.13;114.04
+1265;383;Rausu;Japan;no data;1660;Stratovolcano;no data;j??4;145.13
+1267;384;Redoubt;United States;no data;3108;Stratovolcano;no data;60.49;-152.74
+1269;385;Reventador;Ecuador;no data;3562;Stratovolcano;no data;-0.08;-77.66
+1271;386;Rincon de la Vieja;Costa Rica;no data;1916;Complex;no data;10.83;-85.32
+1273;387;Roundtop;United States;no data;1871;Stratovolcano;no data;54.80;-163.59
+1275;388;Ruapehu;New Zealand;no data;2797;Stratovolcano;no data;-39.28;175.57
+1277;389;Rudakov;Russia;no data;542;Stratovolcano;no data;45.88;149.83
+1279;390;Ruiz; Nevado del;Colombia;5321;Stratovolcano;no data;4.89;-75.32
+1281;391;Rumble IV;New Zealand;no data;500;Submarine;no data;-36.13;178.05
+1283;392;Saba;Netherlands;no data;887;Stratovolcano;no data;17.63;-63.23
+1285;393;Sabancaya;Peru;no data;5967;Stratovolcano;no data;-15.78;-71.85
+1287;394;Sakar;Papua New Guinea;no data;992;Stratovolcano;no data;-5.41;148.09
+1289;395;Sakura-jima;Japan;no data;1117;Stratovolcano;no data;31.59;130.66
+1291;396;Salak;Indonesia;no data;2211;Stratovolcano;no data;-6.72;106.73
+1293;397;San Cristobal;Nicaragua;no data;1745;Stratovolcano;no data;12.70;-87.00
+1295;398;San Salvador;El Salvador;no data;1893;Stratovolcano;no data;13.73;-89.29
+1297;399;San Vicente;Cape Verde Islands;no data;697;Stratovolcano;no data;16.90;-25.00
+1299;400;Sanford;United States;no data;4949;Shield;no data;62.22;-144.13
+1301;401;Sangay;Ecuador;no data;5230;Stratovolcano;no data;-2.00;-78.34
+1303;402;Santa Ana;El Salvador;no data;2381;Stratovolcano;no data;13.85;-89.63
+1305;403;Santa Maria;Guatemala;no data;3772;Stratovolcano;no data;14.76;-91.55
+1307;404;Santorini;Greece;no data;367;Shield;no data;36.40;25.40
+1309;405;Sarychev Peak;Russia;no data;1496;Stratovolcano;no data;17777;153.20
+1311;406;Savo;Solomon Islands;no data;485;Stratovolcano;no data;-9.13;159.82
+1313;407;Segula;United States;no data;1160;Stratovolcano;no data;19025;178.14
+1315;408;Semeru;Indonesia;no data;3676;Stratovolcano;no data;-8.11;112.92
+1317;409;Semisopochnoi;United States;no data;1221;Stratovolcano;no data;51.93;179.58
+1319;410;Sete Cidades;Portugal;no data;856;Stratovolcano;no data;37.87;-25.78
+1321;411;Shasta;United States;no data;4317;Stratovolcano;no data;41.41;-122.19
+1323;412;Sheveluch;Russia;no data;3283;Stratovolcano;no data;56.65;161.36
+1325;413;Shikotsu;Japan;no data;1320;Caldera;no data;42.69;141.38
+1327;414;Shiretoko-Iwo-zan;Japan;no data;1563;Stratovolcano;no data;44.13;145.17
+1329;415;Shishaldin;United States;no data;2857;Stratovolcano;no data;54.76;-163.97
+1331;416;Sinarka;Russia;no data;934;Stratovolcano;no data;48.88;154.18
+1333;417;Smirnov;Russia;no data;1189;Stratovolcano;no data;44.42;146.14
+1335;418;Sollipulli;Chile;no data;2282;Caldera;no data;-38.97;-71.52
+1337;419;Soputan;Indonesia;no data;1784;Stratovolcano;no data;44207;124.73
+1341;421;Soufri?re Hills;United Kingdom;no data;915;Stratovolcano;no data;16.72;-62.18
+1343;422;Soufri?re St. Vincent;St. Vincent;no data;1220;Stratovolcano;no data;13.33;-61.18
+1345;423;South Island;Kenya;no data;800;no data;no data;2.63;36.60
+1347;424;SP Mountain;United States;no data;2141;Cinder Cone;no data;35.60;-111.60
+1349;425;Spurr;United States;no data;3374;Stratovolcano;no data;61.30;-152.25
+1351;426;Srednii;Russia;no data;36;Submarine;no data;47.60;152.92
+1353;427;Steller;United States;no data;2272;Stratovolcano;no data;58.40;-154.40
+1355;428;Stromboli;Italy;no data;924;Stratovolcano;no data;38.79;15.21
+1357;429;Sumaco;Ecuador;no data;3990;Stratovolcano;no data;-0.54;-77.63
+1359;430;Sumbing;Indonesia;no data;3371;Stratovolcano;no data;-7.38;110.07
+1361;431;Sundoro;Indonesia;no data;3136;Stratovolcano;no data;-7.30;109.99
+1363;432;Sunset Craters;United States;no data;2447;Cinder Cone;no data;35.37;-111.50
+1365;433;Suswa;Kenya;no data;2356;Shield;no data;-1.18;36.35
+1367;434;Suwanose-jima;Japan;no data;799;Stratovolcano;no data;29.64;129.72
+1369;435;Taal;Philippines;no data;311;Caldera;no data;14.00;120.99
+1371;436;Talang;Indonesia;no data;2597;Stratovolcano;no data;-0.98;100.68
+1373;437;Tambora;Indonesia;no data;2850;Stratovolcano;no data;-8.25;118.00
+1375;438;Tanaga and Takawangha;United States;no data;1806;Stratovolcano;no data;51.89;-178.15
+1377;439;Tangkubanparahu;Indonesia;no data;2084;Stratovolcano;no data;-6.77;107.60
+1379;440;Tao-Rusyr Caldera;Russia;no data;1325;Stratovolcano;no data;49.35;154.70
+1381;441;Tarso Voon;Chad;no data;3100;Stratovolcano;no data;20.92;17.28
+1383;442;Telica Volcano;Nicaragua;no data;1010;Stratovolcano;no data;12.60;-86.85
+1385;443;Tenerife;Spain;no data;3715;Stratovolcano;no data;28.27;-16.64
+1387;444;Tengger Caldera and Bromo;Indonesia;no data;2329;Stratovolcano;no data;-7.94;112.95
+1389;445;Three Fingered Jack;United States;no data;2390;Stratovolcano;no data;44.50;-121.80
+1391;446;Three Sisters;United States;no data;3100;Stratovolcano;no data;16346;121.77
+1393;447;Thule Islands;United Kingdom;no data;1075;Stratovolcano;no data;-59.45;-27.37
+1395;448;Tiatia;Russia;no data;1819;Stratovolcano;no data;44.35;146.26
+1397;449;Toba;Indonesia;no data;2157;Caldera;no data;2.58;98.83
+1399;450;Todoko-Ranu;Indonesia;no data;979;Caldera;no data;44221;127.47
+1401;451;Tokachi;Japan;no data;2077;no data;no data;43.42;142.69
+1403;452;Tolbachik;Russia;no data;3682;Stratovolcano;no data;55.83;160.33
+1405;453;Tolim?n;Guatemala;no data;3158;Stratovolcano;no data;14.61;-91.19
+1407;454;Towada;Japan;no data;1159;Caldera;no data;40.47;140.92
+1409;455;Traitor's Head;Vanuatu;no data;1881;Stratovolcano;no data;-18.75;169.23
+1411;456;Tri Sestry;Russia;no data;998;Stratovolcano;no data;45.93;149.92
+1413;457;Tristan da Cunha;United Kingdom;no data;2060;Shield;no data;-37.09;-12.28
+1415;458;Tsurumi;Japan;no data;1584;Lava dome;no data;33.28;131.43
+1417;459;Tungurahua;Ecuador;no data;2011;Stratovolcano;no data;-1.47;-78.44
+1419;460;Ubehebe Craters;United States;no data;752;Maar;no data;13547;-117.45
+1421;461;Ubinas;Peru;no data;5672;Stratovolcano;no data;-16.36;-70.90
+1423;462;Udina;Russia;no data;2923;Stratovolcano;no data;55.76;160.53
+1425;463;Ugashik and Peulik;United States;no data;1474;Stratovolcano;no data;57.75;-156.37
+1427;464;Uinkaret Volcanic Field;United States;no data;1555;Volcanic field;no data;36.38;-113.13
+1429;465;Ulawun;Papua New Guinea;no data;2334;Stratovolcano;no data;-5.05;151.33
+1431;466;Umboi;Papua New Guinea;no data;1548;Complex;no data;-5.59;147.88
+1433;467;Undara;Australia;no data;1020;Shield;no data;-18.25;144.75
+1435;468;Ungaran and Telomoyo;Indonesia;no data;2050;Stratovolcano;no data;-7.18;110.33
+1437;469;Unzen;Japan;no data;1500;Complex;no data;32.76;130.29
+1439;470;Urataman;Russia;no data;678;Somma;no data;17502;152.25
+1441;471;Ushishur;Russia;no data;401;Caldera;no data;47.52;152.80
+1443;472;Usu;Japan;no data;737;Stratovolcano;no data;42.54;140.84
+1445;473;Uzon;Russia;no data;1617;Caldera;no data;54.50;159.97
+1447;474;Veniaminof;United States;no data;2507;Stratovolcano;no data;56.17;-159.38
+1449;475;Vernadskii Ridge;Russia;no data;1183;Cinder Cone;no data;50.55;155.97
+1451;476;Vesuvius;Italy;no data;1281;Somma;no data;40.82;14.43
+1453;477;Villarrica;Chile;no data;2847;Stratovolcano;no data;-39.42;-71.93
+1455;478;Vilyuchik;Russia;no data;2173;Stratovolcano;no data;52.70;158.28
+1457;479;Visoke;Congo; Rwanda;;3711;Stratovolcano;-1.47;29.49
+1459;480;Visoke;Congo; Rwanda;;3711;Stratovolcano;-1.47;29.49
+1461;481;Vsevidof and Recheschnoi Volcanoes;United States;no data;2149;Stratovolcano;no data;53.13;-168.69
+1463;482;Vulcano;Italy;no data;500;no data;no data;38.40;14.96
+1465;483;Washington;United States;no data;2376;Shield;no data;44.30;-121.80
+1469;485;Westdahl;United States;no data;1654;Stratovolcano;no data;54.52;-164.65
+1471;486;White Island;New Zealand;no data;321;Stratovolcano;no data;-37.52;177.18
+1473;487;Wrangell;United States;no data;4317;Shield;no data;62.00;-144.02
+1475;488;Wudalianchi;China;no data;597;Volcanic field;no data;48.72;126.12
+1477;489;Yake-dake;Japan;no data;2455;Stratovolcano;no data;36.22;137.59
+1479;490;Yali;Greece;no data;180;Lava dome;no data;36.67;27.14
+1481;491;Yantarni;United States;no data;1345;Stratovolcano;no data;20852;-157.19
+1483;492;Yasur;Vanuatu;no data;361;Stratovolcano;no data;-19.53;169.44
+1485;493;Yellowstone;United States;no data;2805;Caldera;no data;44.43;-110.67
+1487;494;Zavaritzki Caldera;Russia;no data;624;Caldera;no data;46.93;151.95
+1489;495;Zheltovsky;Russia;no data;1953;no data;no data;51.57;157.32
+1491;496;Zhupanovsky;Russia;no data;2958;no data;no data;53.59;159.15
+1493;497;Zimina;Russia;no data;3081;Stratovolcano;no data;55.86;160.60
