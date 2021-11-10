@@ -2,6 +2,7 @@ import folium
 import pandas
 
 st = "Stamen Terrain"
+countries_data = "world.json"
 # st = "Mapbox Bright"
 
 data = pandas.read_csv("Volcanoes2.txt")
@@ -41,9 +42,12 @@ for lt, ln, el, name in zip(lat, lon, elev, name):
         lt = 80
 
     iframe = folium.IFrame(html=html % (name, name, str(el)), width=150, height=75)
-    fg.add_child(folium.Marker(location=[lt, ln], popup=folium.Popup(iframe), icon=folium.Icon(elevate_colorize(el))))
+    fg.add_child(folium.Marker(location=[lt, ln], popup=folium.Popup(iframe),
+     icon=folium.Icon(elevate_colorize(el))))
 
-fg.add_child(folium.GeoJson(data=(open("world.json","r", encoding="utf-8-sig").read())))
+fg.add_child(folium.GeoJson(data=open(countries_data,"r", encoding="utf-8-sig").read(), 
+style_function=lambda x: {'fillColor':'green' if x['properties']['POP2005'] <10000000 
+else 'orange' if 10000000 <= x['properties']['POP2005'] < 20000000 else 'red'}))
 
 map.add_child(fg)
 map.save("Map_html_popup_advanced.html")
