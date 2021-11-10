@@ -40,8 +40,10 @@ for lt, ln, el, name in zip(lat, lon, elev, name):
     if lt > 89:
         lt = 80
 
-    iframe = folium.IFrame(html=html % (name, name, str(el)), width=200, height=100)
+    iframe = folium.IFrame(html=html % (name, name, str(el)), width=150, height=75)
     fg.add_child(folium.Marker(location=[lt, ln], popup=folium.Popup(iframe), icon=folium.Icon(elevate_colorize(el))))
+
+fg.add_child(folium.GeoJson(data=(open("world.json","r", encoding="utf-8-sig").read())))
 
 map.add_child(fg)
 map.save("Map_html_popup_advanced.html")
